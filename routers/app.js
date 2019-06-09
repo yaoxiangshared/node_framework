@@ -1,7 +1,7 @@
 'use strick'
 
 const Router = require('koa-router')
-const AppController = require('../../controller/manager/AppController')
+const AppController = require('../controller/AppController')
 
 const router = new Router({ prefix: '/manager/app' })
 const appController = new AppController()
