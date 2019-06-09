@@ -1,0 +1,21 @@
+{
+    "db_main": {
+        "host": "52.77.198.63",
+        "user": "root",
+        "password": "Mobvista@2017",
+        "database": "3s_msg"
+    },
+    "dingtalk": {
+        "corpId": "dinge30d840c34f761d335c2f4657eb6378f",
+        "e": {
+            "AgentId": "261505636",
+            "AppKey": "dinguslzxsvoqfyg2kxc",
+            "AppSecret": "CBewQ-nAUMCdgrk0SnnHdHxngshUYCwUF6QGZoUaaeG7MGifD2eZgI2nAQrwaJz0"
+        },
+        "w": {
+            "AgentId": "261529296",
+            "AppKey": "dingr3tad87lekfq6uab",
+            "AppSecret": "PTo8TMbxWOGqWfn6Y2wmBXzFK4ZNmm6IKNNBMUd8ejM7kLXDZtQ2gAbQD42_xeRk"
+        }
+    }
+}

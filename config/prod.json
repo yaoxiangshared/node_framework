@@ -1,0 +1,21 @@
+{
+    "db_main": {
+        "host": "sg-3s-msgs-center.cluster-cpgqn7tqklnb.ap-southeast-1.rds.amazonaws.com",
+        "user": "msgscenter_rw",
+        "password": "F4XNC93wQkCE6hV",
+        "database": "msgs_center_3s"
+    },
+    "dingtalk": {
+        "corpId": "dinge30d840c34f761d335c2f4657eb6378f",
+        "e": {
+            "AgentId": "261505636",
+            "AppKey": "dinguslzxsvoqfyg2kxc",
+            "AppSecret": "CBewQ-nAUMCdgrk0SnnHdHxngshUYCwUF6QGZoUaaeG7MGifD2eZgI2nAQrwaJz0"
+        },
+        "w": {
+            "AgentId": "261529296",
+            "AppKey": "dingr3tad87lekfq6uab",
+            "AppSecret": "PTo8TMbxWOGqWfn6Y2wmBXzFK4ZNmm6IKNNBMUd8ejM7kLXDZtQ2gAbQD42_xeRk"
+        }
+    }
+}
