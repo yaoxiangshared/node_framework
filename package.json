@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@koa/cors": "^2.2.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "config": "^3.1.0",
     "knex": "^0.16.5",
     "koa": "^2.7.0",
