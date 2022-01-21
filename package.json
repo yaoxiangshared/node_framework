@@ -13,7 +13,7 @@
     "koa-router": "^7.4.0",
     "koa-session": "^5.10.1",
     "lodash": "^4.17.11",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "mysql2": "^1.6.5",
     "parameter": "^3.6.0",
